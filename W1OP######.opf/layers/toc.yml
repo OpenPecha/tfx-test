@@ -1,0 +1,22 @@
+id: toc
+type: Layer
+label_en: Table of content
+label_bo: དཀར་ཆག
+annotations:
+  - id: t1-1
+    type: structural
+    subtype: title
+    titlelevel: 1
+    startcc: 2
+    endcc: 5
+  - id: t2-1
+    type: structural
+    subtype: title
+    titlelevel: 2
+    startcc: 10
+    endcc: 15
+log_entries:
+  - id: lg1
+    timestamp: 198739879
+    who: autoimport
+    msg: autoimport from whatever resource by pipeline version 4
