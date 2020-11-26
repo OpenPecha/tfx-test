@@ -1,0 +1,145 @@
+#
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#  1. ﻿[41b]ང་ལ་<«གཡུང་»»ལྔ།>བྱིན་ཞེས་<«ཞོལ་»»ཅེས།>བྱ་བ་ནི།
+msgctxt "line 1, 11.txt"
+msgid "[L’histoire] nommée « Donne-le moi. »"
+msgstr ""
+
+#  2. གླེང་གཞི་མཉན་དུ་ཡོད་པ་ན་བཞུགས་<«སྣར་»»གཞུགས།>ཏེ།
+msgctxt "line 2, 11.txt"
+msgid ""
+"Cette histoire [fut contée] alors que le Bienheureux séjournait à Śrāvastī."
+msgstr ""
+
+#  3. དེ་ནས་བཅོམ་ལྡན་འདས་སྔ་དྲོ་ཤམ་ཐབས་དང་ཆོས་གོས་གསོལ་ཏེ་  4.
+# ལྷུང་བཟེད་བསྣམས་ནས།  5. མཉན་དུ་ཡོད་པར་བསོད་སྙོམས་ལ་གཤེགས་པ་ལས།  6.
+# དེར་བཅོམ་[42a]ལྡན་འདས་ལ།
+# ཁྱིམ་བདག་ཅིག་<«སྣར་»»གཅིག>གིས་རོ་བརྒྱ་དང་ལྡན་པའི་ལ་དུ་འགྲངས་ཚད་ཅིག་ཕུལ་བ་དང་།
+msgctxt "line 3, 11.txt"
+msgid ""
+"Alors, au petit matin, le Bienheureux revêtit le nivāsana et le cīvara et il"
+" prit son bol à aumône et partit à Śrāvastī pour [y recevoir] l’aumône. "
+"Ainsi, un père de famille donna un laḍḍū aux cent arômes [suffisamment] "
+"grand pour rassasier [quelqu’un] au Bienheureux. Alors,"
+msgstr ""
+
+#  7. དེའི་ཚེ་བྲམ་ཟེའི་ཁྱེའུ་ཞིག །
+# བཅོམ་ལྡན་འདས་ཀྱི་དྲུང་ནས་ཐག་མི་རིང་བ་ཞིག་ན་འགྲེང་སྟེ<«གཡུང་»འགྲིང་སྟེ།
+# «པེ་»འགྲིང་སྟ།>  8.
+# བཅོམ་ལྡན་འདས་ལ་ཁྱིམ་བདག་དེས་རོ་བརྒྱ་དང་ལྡན་པའི་ལ་དུ་འགྲངས་ཚད་ཅིག་ཕུལ་བ་བྲམ་ཟེའི་ཁྱེའུ་དེས་<«གཡུང་»«པེ་»+ལ་བཀའ་སྩལ་པ།>མཐོང་ངོ་།
+# །  9. མཐོང་ནས་ཀྱང་  10. བྲམ་ཟེའི་ཁྱེའུ་དེ། ལ་དུ་དེ་ལ་ཆགས་པ་སྐྱེས་ནས།  11.
+# དེ་བཅོམ་ལྡན་འདས་ཀྱི་ཐད་དུ་སོང་ནས་  12. སྨྲས་པ།  13. ཀྱེ་གཽ་<«ཞོལ་»གོའུ།>ཏ་མ།
+# 14. ལ་དུ་འོ་ནི་ང་ལ་བྱིན་ཅིག་ཅེས་  15. བྱས་སོ། །  16.
+# དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས། བྲམ་ཟེའི་ཁྱེའུ་དེ་ལ་བཀའ་སྩལ་པ།  17. ཁྱེའུ་  18.
+# གལ་ཏེ་ཁྱོད་ཀྱིས་འདི་སྐད་དུ།  19. ལ་དུ་འདི་བདག་ལ་མི་དགོས་སོ་ཞེས་  20.
+# བྱས་ན་ནི་དེའི་འོག་ཏུ་ངས་སྦྱིན་ནོ། །  21. དེ་ནས་དེས་  22. ཀྱེ་གཽ་ཏ་མ་  23.
+# ལ་དུ་<«གཡུང་»ཅ། «ལི་»«སྣར་»ཏུ།>འདི་བདག་ལ་མི་དགོས་ཞེས་  24. སྨྲས་སོ། །  25.
+# དེ་སྐད་ཅེས་སྨྲས་ནས།  26.
+# བཅོམ་ལྡན་འདས་ཀྱིས་བྲམ་ཟེའི་ཁྱེའུ་དེ་ལ་ལ་དུ་དེ་བྱིན་ནོ། །
+msgctxt "line 4, 11.txt"
+msgid ""
+"à ce moment, un garçon brahmane se leva non loin de l’endroit où (lit. près "
+"de) se tenait le Bienheureux et il vit le père de famille qui donnait le "
+"laḍḍū aux cent arômes [suffisamment] grand pour rassasier [quelqu’un] au "
+"Bienheureux. L’ayant vu, le garçon brahmane eut envie (lit. attachement) de "
+"ce laḍḍū et il alla auprès du Bienheureux et dit : « Hé, Gautama, donne-moi "
+"ce laḍḍū-là », dit-il. Ensuite, le Bienheureux dit à ce garçon de brahmane :"
+" « Garçon, Si tu dis ceci : “Je ne veux pas de ce laḍḍū”, si tu le dis, je "
+"te le donnerai ensuite. » Ensuite, lui : « Hé, Gautama, Je ne veux pas de ce"
+" laḍḍū », dit-il. Après avoir dit ceci, le Bienheureux donna le laḍḍū à ce "
+"garçon de brahmane."
+msgstr ""
+
+#  27. དེའི་ཚེ་ཁྱིམ་བདག་<«གཡུང་»ན་དེ་འདག
+# «པེ་»ནི་ཁྱིམ་བདག>མགོན་མེད་ཟས་སྦྱིན་བཅོམ་ལྡན་འདས་ཀྱི་དྲུང་ནས་ཐག་མི་རིང་བ་ཞིག་ན་འདུག་པ།
+# དེས་བསམས་པ།  28. བཅོམ་ལྡན་འདས་ནི་བསོད་སྙོམས་གཞན་བཞེས་མི་སྲིད་དེ།  29.
+# དེ་ནི་གནས་མེད་ཅིང་སྐབས་མ་ཡིན་ནོ་སྙམ་དུ་  30. རིག་ནས་  31.
+# བྲམ་ཟེའི་<«ཁུ་»ཟེའུ།>ཁྱེའུ་དེ་གུད་དུ་བཀར་ཏེ།  32. བྲམ་ཟེའི་ཁྱེའུ་ལ་སྨྲས་པ།
+# 33. བྲམ་ཟེའི་ཁྱེའུ་  34. ལ་དུ་འོ་ནི་བཅོམ་ལྡན་འདས་ལ་ཕྱིར་ཕུལ་ཅིག་དང་།  35.
+# བདག་གིས་ཁྱོད་ལ་ཀཱར་ཥཱ་པ་ཎ་<«གཡུང་»«པེ་»ཀར་ཤ་པ་ནི། «ལི་»«སྣར་»«ཅོ་»ཀར་ཥ་པ་ཎ།
+# «ཞོལ་»ཀན་པ་ཎ།>ལྔ་བརྒྱ་སྦྱིན་ནོ། །  36.
+# བྲམ་ཟེའི་ཁྱེའུས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཞོལ་»ཁྱེའུ།>སྨྲས་པ།  37. ཁྱིམ་བདག་
+# 38. ཁྱོད་ཅི་ལྟར་དགའ་བ་དེ་བཞིན་དུ་བྱའོ་ཞེས་  39. བྱས་ནས་  40.
+# བྲམ་ཟེའི་ཁྱེའུ་དེས་ལ་དུ་དེ་བཅོམ་ལྡན་འདས་ཀྱི་ལྷུང་བཟེད་ཀྱི་ནང་དུ་བཅུག་གོ། །
+msgctxt "line 5, 11.txt"
+msgid ""
+"À ce moment, le père de famille Anāthapiṇḍada se tenait non loin de "
+"l’endroit où (lit. près de) se trouvait le Bienheureux. Il pensa : « Il est "
+"impossible que le Bienheureux mange d’autres offrandes, aussi, ceci n’est "
+"pas correct et ne peut pas arriver (lit. il n’y a pas de moment) », pensa-t-"
+"il. Puis, il prit à part le garçon de brahmane et dit au garçon de "
+"brahmane : « Garçon de brahmane, rendez (lit. offrez en retour) ce laḍḍū au "
+"Bienheureux. Alors, je vous donnerai cinq cent kārṣāpaṇas. » Le garçon de "
+"brahmane dit : « Père de famille, je ferai comme il vous plaira », dit-il. "
+"Puis, le garçon brahmane mit ce laḍḍū dans le bol à aumône du Bienheureux."
+msgstr ""
+
+#  41. དེ་ནས་བཅོམ་ལྡན་འདས་ཀྱིས་བསོད་སྙོམས་དེ་བཞེས་ནས་  42.
+# གཙུག་ལག་ཁང་དུ་གཤེགས་སོ། །  43.
+# ཁྱིམ་བདག་མགོན་མེད་ཟས་སྦྱིན་གྱིས་ཀྱང་བྲམ་ཟེའི་ཁྱེའུ་དེ་ཁྱིམ་དུ་ཁྲིད་དེ<«གཡུང་»«པེ་»+ཟས།>།
+# 44. ཟན་བྱིན་ནས་  45. ཀཱརྵཱ་པ་ཎ་<«གཡུང་»«པེ་»ཀར་ཤ་པ་ནི། «ལི་»«སྣར་»ཀཅུ་པ་ཎ།
+# «ཅོ་»གཅུ་པ་ཎ། «ཞོལ་»ཀན་པ་ཎ།>ལྔ་བརྒྱ་བྱིན་ཏེ་  46. བཏང་ངོ་། །
+msgctxt "line 6, 11.txt"
+msgid ""
+"Ensuite, le Bienheureux mangea l’offrande (lit. l’aumône) et alla au vihāra."
+" Le père de famille Anāthapiṇḍada, quant à lui, mena le garçon brahmane dans"
+" sa maison et lui donna à manger et lui donna cinq cent kārṣāpaṇa et le "
+"laissa partir."
+msgstr ""
+
+#  47. དེ་ནས་དགེ་སློང་དག་གིས་བཅོམ་ལྡན་འདས་ལ་ཞུས་པ།  48. བཙུན་པ་  49. ཀྱེ་མ་
+# 50. བྲམ་ཟེའི་ཁྱེའུ་འདིས་བཅོམ་ལྡན་འདས་ལས་<«གཡུང་»–ལས།>ལ་དུ་བླངས་པ་དེའི་ཚེ།
+# བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ལ>མ་སྩལ་ལ།  51.
+# གང་གི་ཚེ་དེས་  52. ཀྱེ་གཽ་ཏ་མ་  53. ལ་དུ་འདི་བདག་ལ་མི་དགོས་སོ་ཞེས་  54.
+# སྨྲས་པ་<«ཅོ»–པ།>དེའི་[42b]ཚེ།
+# བཅོམ་ལྡན་འདས་ཀྱིས་དེ་ལ་ལ་དུ་སྩལ་པ་ལ་<«གཡུང་»–པ་ལ།>གཟིགས།  55.
+# བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།
+msgctxt "line 7, 11.txt"
+msgid ""
+"Puis les moines s’adressèrent au Bienheureux : « Vénérable, quelle "
+"merveille ! Lorsque ce garçon brahmane a demandé le laḍḍū au Bienheureux, le"
+" Bienheureux ne le lui a pas donné, mais quand lui, “Hé, Gautama, je ne veux"
+" pas de ce laḍḍū”, il l’a dit, à ce moment, le Bienheureux le lui a donné. "
+"Posez-y votre regard. » Le Bienheureux dit : «"
+msgstr ""
+
+#  56. དགེ་སློང་དག་  57.
+# བྲམ་ཟེའི་ཁྱེའུ་དེས་ནི་ཚེ་རབས་སྟོང་ཕྲག་དུ་མར་བླང་བའི་<«ཁུ་»བླངས་པའི།>འདུ་ཤེས་འབའ་ཞིག་ཀུན་དུ་བསྟེན་ཅིང་
+# 58. བསྒོམས་ཏེ།  59. མང་དུ་བྱས་ནས་  60.
+# འདི་རྟག་ཏུ་གཞན་འབའ་ཞིག་ལ་རེ་བར་གྱུར་པས་ན<«གཡུང་»«ལི་»«པེ་»«སྣར་»«ཅོ་»«ཞོལ་»–ན།>།
+# 61. ངས་འདི་ད་ལྟར་ལ་དུས་<«གཡུང་»«ལི་»«པེ་»«སྣར་»ཏུས།>བྲིད་ནས་  62.
+# བླང་བའི་འདུ་ཤེས་ལས་བཟློག་སྟེ།  63. འདི་ཉིད་འདིའི་རབ་ཏུ་འབྱུང་བ་དང་།
+# ཕུང་པོ་ཡོངས་སུ་སྤོང་བའི་རྒྱུར་འགྱུར་རོ། །
+msgctxt "line 8, 11.txt"
+msgid ""
+"Moines, ce garçon brahmane ne fonctionnait qu’avec (lit. se reposait "
+"entièrement seulement sur) la pensée de prendre depuis d’innombrables "
+"milliers de vies. De plus, il s’y était habitué (lit. avait médité) et "
+"l’avait fait de nombreuses fois et puisqu’il dépendait constamment des "
+"autres, maintenant, je l’ai leurré avec un laḍḍū et je l’ai détourné de la "
+"pensée de prendre. Ainsi, ceci sera la cause qui le fera se retirer du monde"
+" et éliminer entièrement les agrégats. »"
+msgstr ""
+
+#  64. བཙུན་པ་  65.
+# བྲམ་ཟེའི་ཁྱེའུ་འདིའི་ཕུང་པོ་གང་དུ་ཡོངས་སུ་སྤོང་བར་འགྱུར་ལགས།  66.
+# དགེ་སློང་དག་  67. མ་འོངས་པའི་དུས་ན་<«ཁུ་»ནས།>ཉན་ཐོས་དང་།
+# རང་སངས་རྒྱས་ཀྱི་ས་ལས་<«གཡུང་»–ལས།>འདས་པའི་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རི་བོ་ཞེས་བྱ་བ་ཞིག་འབྱུང་བར་འགྱུར་ཏེ།
+# 68. དེའི་གསུང་རབ་ལ་འདིས་མིར་སྐྱེ་བ་ཐོབ་<«གཡུང་»བར་ཐོས «པེ་»བར་ཐོབ།>ནས།  69.
+# རྒྱུ་འདི་ཁོ་ནས་རབ་ཏུ་བྱུང་སྟེ།  70. ཉོན་མོངས་པ་ཐམས་ཅད་སྤངས་ནས།  71.
+# དགྲ་བཅོམ་པ་ཉིད་མངོན་སུམ་དུ་བྱེད་པར་འགྱུར་རོ།། །།
+msgctxt "line 9, 11.txt"
+msgid ""
+"« Vénérable, où ce garçon brahmane éliminera-t-il entièrement ses "
+"agrégats ? » « Moines, dans le futur, apparaîtra un complet et parfait "
+"bouddha nommé Montagne qui aura transcendé les niveaux des auditeurs et des "
+"bouddhas-par-soi et pendant [l’ère] de son enseignement, il obtiendra une "
+"naissance humaine et uniquement grâce à cette cause, il se retirera du monde"
+" et il éliminera toutes les émotions perturbatrices et il manifestera l’état"
+" d’arhat (lit. l’arhat-même). »"
+msgstr ""
