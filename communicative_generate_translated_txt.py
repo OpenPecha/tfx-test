@@ -142,12 +142,38 @@ def gen_pdf(file):
 
 
 if __name__ == '__main__':
+    """
+    arguments structure:
+    
+    communicative_generate_translated_txt.py filename_stem enforce
+        will enforce generation of all output files, even if they exist and if there is no change in the content
+    
+    communicative_generate_translated_txt.py filename_stem
+        will check if output files have different content than new output. skips changes that don't affect content like paragraph boundaries
+    
+    if "filename_stem" == "all", all files are processed
+    
+    """
+
     folder = 'fr/reader'
-    enforce = False
-    # sys.argv = ['', '17']
-    if len(sys.argv) > 1:
-        stem = sys.argv[1]
-        file = Path(folder) / (stem + '.po')
+    to_process = None
+    if len(sys.argv) == 1:
+        to_process = 'all'
+        enforce = False
+    elif len(sys.argv) == 2:
+        to_process = sys.argv[1]
+        enforce = False
+    elif len(sys.argv) == 3:
+        to_process = sys.argv[1]
+        if sys.argv[2] == 'enforce':
+            enforce = True
+        else:
+            enforce = False
+    else:
+        raise(SyntaxError('not right'))
+
+    if to_process and to_process != 'all':
+        file = Path(folder) / (to_process + '.po')
         print(file.name)
         po = Po(file)
         po.write_txt(enforce=enforce)
