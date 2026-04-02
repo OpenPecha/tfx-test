@@ -7,10 +7,8 @@
 <h1 align="center">tfx-test</h1>
 
 <p align="center">
-  
+  |test repo for translation workflow using Transifex|
 </p>
-
-test repo for translation workflow using Transifex
 
 ## Table of Contents
 
@@ -27,55 +25,34 @@ test repo for translation workflow using Transifex
 
 ## Features
 
-- OpenPecha project component
-- Tibetan Buddhist text processing
-- Integration with OpenPecha infrastructure
+- Test repo for translation workflow using Transifex
 
 ## Prerequisites
 
-- Python 3.8+ (if Python project)
-- Node.js (if JavaScript project)
-- pip/npm
+- Python 3.8+ or relevant tooling
 
 ## Installation
 
 ```bash
-# Clone the repository
 git clone https://github.com/OpenPecha/tfx-test.git
 cd tfx-test
-
-# Install dependencies
-# For Python projects:
-pip install -r requirements.txt
-
-# For Node.js projects:
-npm install
 ```
 
 ## Configuration
 
-Configure via environment variables or config files as needed.
+Configuration details here.
 
 ## Usage
 
-```bash
-# Refer to project-specific documentation
-```
+Refer to project-specific documentation.
 
 ## Development
 
-```bash
-# Install dev dependencies
-pip install -e .[dev]  # Python projects
-npm install -D  # Node.js projects
-```
+Install dev dependencies as needed.
 
 ## Testing
 
-```bash
-pytest  # Python projects
-npm test  # Node.js projects
-```
+Run appropriate tests.
 
 ## Contributing
 
@@ -92,4 +69,4 @@ Please read [CONTRIBUTING.md](https://github.com/OpenPecha/.github/blob/main/CON
 * Join our [discord](https://discord.com/invite/7GFpPFSTeA).
 
 ## Terms of use
-This project is licensed under the [Apache-2.0 License](/LICENSE) unless otherwise noted.
+This project is licensed under the [Apache-2.0 License](/LICENSE).
